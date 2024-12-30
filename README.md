@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jereminathanael
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning front end developer
+- 🌱 I’m currently learning fullstack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
